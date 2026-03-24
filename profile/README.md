@@ -50,8 +50,8 @@ We combine aesthetic design with rigorous engineering standards across the follo
 We are based in Europe and serve clients globally. Reach out to discuss your next project!
 
 * **📧 Email:** [sales@isratech.software](mailto:sales@isratech.software)
-* **📱 Phone:** [+1 (504) 414 9675](tel:+15044149675)
-* **🌐 Website:** [https://isratech.software/](https://isratech.software)
+* **📱 Phone:** <a href="https://isratech.software/contact" target="_blank" rel="noopener noreferrer">+1 (504) 414 9675</a>
+* **🌐 Website:** <a href="https://isratech.software/" target="_blank" rel="noopener noreferrer">https://isratech.software/</a>
 
 ---
 <p align="center">
